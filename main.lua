@@ -34,3 +34,5 @@ lp.Chatted:Connect(function(msg: string)
       end
   end
 end);
+
+return addCommand;
